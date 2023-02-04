@@ -34,6 +34,9 @@ Explique um pouco sobre o 4noobs que está desenvolvendo.
 ## ROADMAP
 
 - [O que é elixir?](content/about-elixir.md)
+  - [O que é o Erlang?](content/about-elixir.md)
+
+- [1. Tipos primitivos](/content/primitive-types.md)
 
 <!-- CONTRIBUTING -->
 
