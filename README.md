@@ -60,7 +60,7 @@ são **extremamente apreciadas**
 
 ## Autores
 
-- **Paulo Castro** - _Elixir Software Engineer_ - [@Elixitrus](twitter.com/Elixitrus)
+- **Paulo Castro** - _Elixir Software Engineer_ - [@Elixitrus](https://twitter.com/Elixitrus)
 
 ---
 
