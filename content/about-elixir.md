@@ -1,10 +1,10 @@
-# Elixir? É de comer ou de passar no cabelo?
+# Uma breve história...
 
-## Uma breve história...
+  _Caso queira pular diretamente para o conteúdo, esse tópico é apenas para contextualizar o leitor acerca do que é a linguagem Elixir, desde o seu princípio no Erlang até o nascimento da linguagem que será o foco desse 4noobs. O conteúdo prático encontra-se [no próximo tópico](/content/primitive-types.md)_
 
-* `Elixir` é uma linguagem de programação moderna, focada e especializada na construção de sistemas escaláveis em larga escala, de forma distribuída e tolerante à falhas para a `máquina virtual do Erlang`, a `BEAM`.
+`Elixir` é uma linguagem de programação moderna, focada e especializada na construção de sistemas escaláveis em larga escala, de forma distribuída e tolerante à falhas para a `máquina virtual do Erlang`, a `BEAM`.
 
-  <h3><strong>Espera! Antes de entrar a fundo no que é o Elixir, vamos entender o que é o Erlang!</strong></h3>
+### ***Espera! Antes de entrar a fundo no que é o Elixir, vamos entender o que é o Erlang!***
 
   * `Erlang` é uma linguagem criada pela empresa de `Telecom` Ericsson, visando ajudar os desenvolvedores a lidarem com os desafios de construir um sistema de alta disponibilidade e com downtime quase nulo, visto que: Um telefone deve sempre operar independente do número de chamadas simultâneas que estejam ocorrendo e também independente de bugs inesperados ou upgrades de hardware e software.
 
