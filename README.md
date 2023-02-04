@@ -18,16 +18,21 @@
     <a href="#roadmap"><strong>Explore a documentação »</strong></a>
     <br />
     <br />
-    <a href="link-para-abrir-issue">Report Bug</a>
+    <a href="https://github.com/Cyytrus/elixir4noobs/issues">Report Bug</a>
     ·
-    <a href="link-para-abrir-issue">Request Feature</a>
+    <a href="https://github.com/Cyytrus/elixir4noobs/issues">Request Feature</a>
   </p>
 </p>
     
  <!-- ABOUT THE PROJECT -->
 
 ## Sobre o Projeto
-Explique um pouco sobre o 4noobs que está desenvolvendo.
+
+Esse projeto tem o intuito de habilitar qualquer desenvolvedor a entender e praticar a linguagem elixir com maestria, independentemente do mesmo possuir experiência prévia com alguma linguagem de programação.
+
+Com a base ensinada nesse 4noobs, será possível construir uma aplicação concorrente, tolerante à falhas e escalável. Servindo como pontapé inicial para a utilização das demais ferramentas e frameworks de elixir.
+
+Divirta-se!
 
 <!-- ROADMAP OF PROJECT -->
 
