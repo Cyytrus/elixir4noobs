@@ -1,6 +1,6 @@
 # Uma breve história...
 
-  _Caso queira pular diretamente para o conteúdo, esse tópico é apenas para contextualizar o leitor acerca do que é a linguagem Elixir, desde o seu princípio no Erlang até o nascimento da linguagem que será o foco desse 4noobs. O conteúdo prático encontra-se [no próximo tópico](/content/primitive-types.md)_
+  _Caso queira pular diretamente para o conteúdo, esse tópico é apenas para contextualizar o leitor acerca do que é a linguagem Elixir, desde o seu princípio no Erlang até o nascimento da linguagem que será o foco desse 4noobs. O conteúdo prático encontra-se [no próximo tópico](/content/interactive-elixir.md)_
 
 `Elixir` é uma linguagem de programação moderna, focada e especializada na construção de sistemas escaláveis em larga escala, de forma distribuída e tolerante à falhas para a `máquina virtual do Erlang`, a `BEAM`.
 
