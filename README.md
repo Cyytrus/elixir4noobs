@@ -39,9 +39,14 @@ Divirta-se!
 ## ROADMAP
 
 - [O que é elixir?](content/about-elixir.md#uma-breve-história)
+  
   - [O que é o Erlang?](content/about-elixir.md#espera-antes-de-entrar-a-fundo-no-que-é-o-elixir-vamos-entender-o-que-é-o-erlang)
 
     - [1. Alta disponibilidade](content/about-elixir.md#1-alta-disponibilidade)
+
+    - [2. Concorrência em Erlang](content/about-elixir.md#2-concorrência-em-erlang)
+  
+  - [Elixir!](content/about-elixir.md#elixir)
 
 - [Tipos primitivos](/content/primitive-types.md)
 
