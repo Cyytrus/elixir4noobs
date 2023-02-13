@@ -114,4 +114,4 @@ And :turkic properly handles the letter i with the dotless variant:
 
   Ao longo desse 4noobs é de suma importância que você utilize o `iex` para praticar os códigos que serão apresentados.
 
-  Agora, para colocarmos todo esse conhecimento em prática, aqui estão os [conhecimentos do próximo tópico!](content/../primitive-types.md)
+  Agora, para colocarmos todo esse conhecimento em prática, aqui estão os [conhecimentos do próximo tópico!](content/../variables-and-primitive-types.md)
